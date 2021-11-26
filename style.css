@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+}
+
+.header {
+    display: flex;
+    background-color: #1f2937;
+}
+
+.body {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+}
